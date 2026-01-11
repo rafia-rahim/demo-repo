@@ -7,3 +7,7 @@
 ## Subheader
 Checking test commit. more changes 
 
+## Local dev
+
+1. Open index.html
+
